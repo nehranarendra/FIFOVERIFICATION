@@ -1,23 +1,16 @@
 `timescale 1ns / 1ps
+`timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: NONE
+// Engineer: NARENDRA KUMAR NEHRA
 // 
-// Create Date: 22.07.2024 17:41:43
-// Design Name: 
+// Create Date: 22.07.2024 17:42:40
+// Design Name: FIFO VERIFICATION USING SYSTEM VERILOG
 // Module Name: DESIGN
 // Project Name: 
 // Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
+// Tool Versions: VIVADO 2023.2
+////////////////////////////////////////////////////////////////////////////////
 
 
 module FIFO (
