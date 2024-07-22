@@ -5,7 +5,9 @@ This repository provides a SystemVerilog testbench for verifying a FIFO (First-I
 
 Components
 Transaction Class: Defines data structures and constraints for FIFO operations (read, write, and status flags).
+
 Generator Class: Produces randomized transactions and sends them to the FIFO.
+
 Driver Class: Applies read and write operations to the FIFO based on generated transactions.
 Monitor Class: Observes FIFO behavior and captures its state and data.
 Scoreboard Class: Verifies FIFO operations by comparing expected and actual data, tracking errors.
